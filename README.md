@@ -1,4 +1,4 @@
-**ScholarFlow - Made by Ajay Avasi, Arjun Gilhotra, Sahas Maduri**
+######**ScholarFlow - Made by Ajay Avasi, Arjun Gilhotra, Sahas Maduri**
 🎓 Inspiration
 Entering our junior year, we realized we were unprepared for college applications. Over the last couple of weeks, we scrambled to find professors to work with to possibly land a research internship. There was one big problem though: we had no idea which professors we wanted to contact. This naturally led us to our newest product, "ScholarFlow". With our website, we assure you that finding professors and research papers that interest you will feel effortless, like flowing down a stream. 🌊
 
