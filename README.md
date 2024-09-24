@@ -22,4 +22,8 @@ The most important lesson was learning how to work together as a team. Despite t
 ## 🔮 What's Next for ScholarFlow
 Currently, our data is limited. In the future, we’re excited to expand our dataset by collaborating with Google Scholar to gain even more information for our platform. Additionally, we have plans to develop an iOS app 📱 so people can discover new professors on the go!
 
-About
+## About
+###### Email Information
+Ajay-Avasi - ajaydavasi@gmail.com
+Arjun Gilhotra - arjung9893@gmail.com
+Sahas Maduri - sahas.maduri@gmail.com
